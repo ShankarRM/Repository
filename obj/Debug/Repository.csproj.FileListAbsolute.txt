@@ -1,0 +1,12 @@
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\bin\Debug\Repository.exe.config
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\bin\Debug\Repository.exe
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\bin\Debug\Repository.pdb
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\obj\Debug\Repository.exe
+C:\Users\ADMIN\documents\visual studio 2017\Projects\StatePattern\Repository\obj\Debug\Repository.pdb
