@@ -10,16 +10,5 @@ namespace Repository
     {
         IQueryable<T> Fetch();
     }
-    class Repository<T> : IRepository<T> where T:class
-    {
-        public readonly IUnitOfWork uoc;
-        public Repository(IUnitOfWork _uoc)
-        {
-            _uoc = uoc;
-        }
-        public IQueryable<T> Fetch()
-        {
-            return uoc.GetDbSet<T>();
-        }
-    }
+    
 }
